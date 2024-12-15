@@ -1,0 +1,14 @@
+cryptography==41.0.4
+pyrogram
+bs4
+names
+imageio
+pillow
+qrcode
+pytz
+requests
+opencv-python
+python-dotenv
+iso3166
+faker
+rsa
